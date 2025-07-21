@@ -29,7 +29,7 @@ whereas “CmdConfig.txt” shall read in a text editor with shown **symbol** in
 ## Step 3 ## 
   The system shall generate automatically "DiskUpdatingInf.txt" on the USB disc which contains the serial number and the files used for the update, system component name (EMS/PCSAC/PCSDC) and update result (Update Success).   
 
->SWA34ABC245100821  
+>SWA34ABC245100000  
 >SunEss_M3_App_ACea-0008_20250710.bin  
 >EMS Update Success  
 >SunEss_INV_APP_ACaa-0016_20250709.bin  

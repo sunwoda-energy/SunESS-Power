@@ -7,19 +7,19 @@
   
   a) copy the .bin files to the USB disk root folder
   
-  b) create “CmdConfig.txt” (case sensitive) in the root folder where the file contains:
+  b) create “CmdConfig.txt” (case sensitive) in the root folder where the file (example below) contains:
 
 >update  
 >1.SunEss_M3_App_ACea-0008_20250710.bin  
->2.SunEss_PV_APP_ACda-0027_20250710.bin  
->3.SunEss_PV_APP_ACda-0027__20250709.bin  
+>2.SunEss_INV_APP_ACaa-0016_20250709.bin.bin  
+>3.SunEss_PV_APP_ACda-0027__20250710.bin  
 
 whereas “CmdConfig.txt” shall read in a text editor with shown **symbol** in [square brackets] as: 
 
 >[line1]update[CRLF]  
 >[line2]1.SunEss_M3_App_ACea-0008_20250710.bin[CRLF]  
->[line3]2.SunEss_PV_APP_ACda-0027_20250710.bin[CRLF]   
->[line4]3.SunEss_PV_APP_ACda-0027__20250709.bin[CRLF]  
+>[line3]2.SunEss_INV_APP_ACaa-0016_20250709.bin[CRLF]   
+>[line4]3.SunEss_PV_APP_ACda-0027__20250710.bin[CRLF]  
 
 ## Step 2 ##
   a) insert the USB disk into the debug port on the side of the inverter.   

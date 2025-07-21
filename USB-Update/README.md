@@ -1,11 +1,14 @@
 # Updating the SunESS Power firmware using USB disk #
-** 2025-07-11 **
+**2025-07-11**
 
-## Please preapre a USB disk (jump drive) in Fat32 or exFat format ##
+### Please preapre a USB disk (jump drive) in Fat32 or exFat format ###
 
 # Step 1 # 
+  
   a) copy the .bin files to the USB disk root folder
+  
   b) create “CmdConfig.txt” (case sensitive) in the root folder where the file contains:
+
   
 update
 1.SunEss_M3_App_ACea-0008_20250710.bin 

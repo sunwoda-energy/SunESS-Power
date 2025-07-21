@@ -1,5 +1,5 @@
 # Updating the SunESS Power firmware using USB disk #
-## 2025-07-11 ##
+** 2025-07-11 **
 
 ## Please preapre a USB disk (jump drive) in Fat32 or exFat format ##
 

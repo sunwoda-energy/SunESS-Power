@@ -1,4 +1,6 @@
-** Instruction for updating the SunESS Power firmware using USB disk **
+** Updating the SunESS Power firmware using USB disk **
+** 2025-07-11 **
+
 ** Please preapre a USB disk (jump drive) in Fat32 or exFat format **
 
 #Step 1# 

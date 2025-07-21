@@ -14,7 +14,7 @@
 >2.SunEss_PV_APP_ACda-0027_20250710.bin  
 >3.SunEss_PV_APP_ACda-0027__20250709.bin  
 
-whereas “CmdConfig.txt” shall read in a text editor with shown **symbol** in (square brackets) as: 
+whereas “CmdConfig.txt” shall read in a text editor with shown **symbol** in [square brackets] as: 
 
 >[line1]update[CRLF]  
 >[line2]1.SunEss_M3_App_ACea-0008_20250710.bin[CRLF]  

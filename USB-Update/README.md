@@ -23,7 +23,7 @@ whereas “CmdConfig.txt” shall read in a text editor with shown **symbol** in
 
 ## Step 2 ##
   a) insert the USB disk into the debug port on the side of the inverter.   
-  b) wait until all LED in the front of the SunESS power flashed quickly (every 0.5 second), roughly 10 mins (3 files).   
+  b) wait for approx. 10 mins (3 files) until all LED in the front of the SunESS power flashed quickly (every 0.5 second).   
   c) remove the USB disk, and the system shall restart by itself. 
 
 ## Step 3 ## 
